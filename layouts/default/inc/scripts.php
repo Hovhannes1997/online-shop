@@ -1,0 +1,15 @@
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js"></script>
+<script src="/public/js/bootstrap-notify.min.js"></script>
+<script src="https://unpkg.com/swiper/swiper-bundle.js"></script>
+<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+<script src="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.js"></script>
+<script src="/public/ui_elements/lightslider-master/dist/js/lightslider.js"></script>
+<script src="/public/ui_elements/elevatezoom-master/jquery.elevatezoom.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/rateYo/2.3.2/jquery.rateyo.min.js"></script>
+<script src="/public/ui_elements/timer/inc/TimeCircles.js"></script>
+<script src="/public/ui_elements/nav/nav.js"></script>
+<script src="/public/ui_elements/nav/sina-nav.min.js"></script>
+<!--optional js-->
+<script src="/public/js/main.js"></script>
